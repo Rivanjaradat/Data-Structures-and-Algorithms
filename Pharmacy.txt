@@ -1,0 +1,3 @@
+Azimex500:Azithromycin:Antibiotic:skinallergy,tonsillitis,pneumonia:3/2025:7:birzeit pharmaceutical company
+Azicare 500:Azithromycin:Antibiotic:skinallergy,tonsillitis,pain:3/2025:11:Pharmacare PLC
+Paramol:Paracetamol:Pain killer:pain,fever:3/2026:9:BeitJala Pharmaceutical
