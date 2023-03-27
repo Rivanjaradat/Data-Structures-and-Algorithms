@@ -1,0 +1,4 @@
+Moroco,MAR,2,1,0,3
+Belgium,BEL,1,1,1,-1
+Croatia,CRO,1,2,0,3
+Canada,CAN,0,0,3,-5
